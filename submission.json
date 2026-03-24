@@ -1,0 +1,8 @@
+{
+  "prompt": "Create a single-frame image in the style of a 19th-century naturalist scientific illustration (1800s field study plate). A mountainous terrain represents gradient descent, with multiple tiny hikers descending along winding paths toward a central valley (global minimum), with smaller basins indicating local minima. Use a flat observational composition showing the full terrain. Include a secondary cross-sectional diagram at the bottom labeled 'Fig. II — Elevation Profile', depicting a curve with labeled minima. Add a plate title in faux Latin: 'De Descensu in Valle Minima' and figure numbering such as 'Fig. I'. Render with fine ink linework, detailed cross-hatching and stippling for shading (no smooth gradients), and muted watercolor washes in sepia, ochre, and pale green. Use an aged paper texture. Include handwritten serif or cursive annotations in a consistent style. Label elements as 'Path A', 'Path B', 'Local minima', 'Global minimum', and 'Descent paths'. Use hand-drawn arrows resembling cartographic survey markings and subtle measurement notes. No modern elements, no sans-serif fonts, no photorealism, no digital rendering style. The image should resemble an analytical naturalist plate explaining gradient descent.",
+  "model": "Gemini 3 Pro",
+  "concept": "Gradient Descent",
+  "tradition_name": "19th-century naturalist illustration",
+  "tradition_period": "1800s",
+  "tradition_approach": "Fine ink linework, cross-hatching and stippling, muted watercolor washes, handwritten serif annotations, figure plates, and analytical diagrams to replicate scientific naturalist field studies."
+}
